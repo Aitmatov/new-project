@@ -1,0 +1,234 @@
+body{
+    background-color: #000000;
+    margin-top: 80px;
+
+}
+.border{
+    margin: 0 auto;
+    justify-content: center;
+    border: 1px solid #ffffff;
+    width: 664px;
+    height: 576px;
+    background-color: #ffffff;
+    border-radius: 8px;
+
+}
+.anketa{
+    width: 478px;
+    height: 24px;
+    left: 408px;
+    top: 288px;
+    font-family: Sora;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    color: #000000;
+}
+.lichnyi{
+    width: 332px;
+    height: 16px;
+    left: 412px;
+    top: 336px;
+    font-family: Sora;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    margin-top: 24px;
+    color: #000000;
+}
+.fio{
+    display: flex;
+    height: 48px;
+
+}
+.fio1{
+
+    border: 1px solid #808080;
+    width:180px;
+    border-radius: 8px;
+    box-shadow: 0px 6px 24px rgba(0, 0, 0, 0.1);
+    margin-left: 24px;
+    padding-left: 16px;
+}
+.fio2{
+    border: 1px solid #808080;
+    border-radius: 8px;
+    width: 180px;
+    box-shadow: 0px 6px 24px rgba(0, 0, 0, 0.1);
+    margin-left: 8px;
+    padding-left: 16px;
+
+}
+.fio3{
+    border: 1px solid #808080;
+    border-radius: 8px;
+    width: 180px;
+    box-shadow: 0px 6px 24px rgba(0, 0, 0, 0.1);
+    margin-left: 8px;
+    padding-left: 16px;
+
+}
+.pasport{
+    width: 270px;
+    height: 16px;
+    left: 412px;
+    top: 432px;
+    font-family: Sora;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    color: #000000;
+}
+.datarozh{
+    display: flex;
+}
+.data1{
+    width: 180px;
+    height: 48px;
+    left: 428px;
+    top: 456px;
+    font-family: Sora;
+    border: 1px solid #808080;
+    border-radius: 8px;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0px 6px 24px rgba(0, 0, 0, 0.1);
+    margin-left: 20px;
+    padding-left:16px;
+}
+.lefticon{
+    position: absolute;
+    margin-left: 170px;
+    margin-top: 14px;
+}
+.mestopr{
+    width: 390px;
+    height: 48px;
+    color: #DADADA;
+    box-shadow: 0px 6px 24px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    border: 1px solid #808080;
+    padding-left: 16px;
+    margin-left: 8px;
+}
+.pasport1{
+    display: flex;
+
+}
+.seryinum{
+    border: 1px solid #808080;
+    border-radius: 8px;
+    width: 180px;
+    height: 48px;
+    left: 428px;
+    top: 520px;
+    font-family: Sora;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0px 6px 24px rgba(0, 0, 0, 0.1);
+    margin-left: 20px;
+    padding-left: 16px;
+
+}
+.inn{
+    border: 1px solid #808080;
+    border-radius: 8px;
+    width: 180px;
+    height: 48px;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 24px rgba(0, 0, 0, 0.1);
+    margin-left: 8px;
+    padding-left: 16px;
+}
+.dataget{
+    border: 1px solid #808080;
+    border-radius: 8px;
+    width: 180px;
+    height: 48px;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 24px rgba(0, 0, 0, 0.1);
+    margin-left: 8px;
+    padding-left: 16px;
+}
+.calendar{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    margin-left: 594px;
+    margin-top: 13px;
+}
+.contact{
+    border: 1px solid #808080;
+    border-radius: 8px;
+    width: 180px;
+    height: 48px;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 24px rgba(0, 0, 0, 0.1);
+    margin-left: 20px;
+    padding-left: 16px;
+}
+.eladress{
+    border: 1px solid #808080;
+    border-radius: 8px;
+    width: 180px;
+    height: 48px;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 24px rgba(0, 0, 0, 0.1);
+    margin-left: 5px;
+    padding-left: 16px;
+}
+.bank{
+    width: 200px;
+    height: 48px;
+    border: 1px solid #808080;
+    border-radius: 8px;
+    box-shadow: 0px 6px 24px rgba(0, 0, 0, 0.1);
+    margin-left: 5px;
+    padding-left: 16px;
+}
+.factipr{
+    width: 400px;
+    height: 48px;
+    border: 1px solid #808080;
+    border-radius: 8px;
+    box-shadow: 0px 6px 24px rgba(0, 0, 0, 0.1);
+    margin-left: 20px;
+    padding-left: 16px;
+}
+.dalee{
+    width: 384px;
+    border: 1px solid #000000;
+    border-radius: 8px;
+    height: 48px;
+    background-color: #232529;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+.dalee1{
+    position: absolute;
+    width: 352px;
+    height: 48px;
+    text-align: center;
+    font-family: Sora;
+    font-size: 20px;
+    line-height: 25px;
+    align-items: center;
+    letter-spacing: 1px;
+    margin-left: 14px;
+    margin-top: 10px;
+    color: #FFFFFF;
+}
+.dalee1{
+    text-decoration: none;
+}
